@@ -99,7 +99,8 @@ const Header = () => {
                     </div>
                 </div>
                 <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-                    <img src="https://xsgames.co/randomusers/assets/avatars/female/67.jpg" alt="Profile"/>
+                    <img src="https://static.vecteezy.com/system/header_search_link/thumbnail/34/hsl_large_term-bg-1__1_.jpg" alt="Profile"/>
+                    {/* <img src="https://xsgames.co/randomusers/assets/avatars/female/67.jpg" alt="Profile"/> */}
                 </div>
                 <button
                     className="w-[40px] md:w-[60px] h-8 md:h-10 flex items-center justify-center border border-l-0 border-[#303030] rounded-3xl bg-white/[0.1] md:ml-4"
