@@ -1,6 +1,44 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">YouTube-Clone</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p id="description">This is a YouTube clone web application built with React.js and powered by API support. It allows users to explore and interact with videos just like the real YouTube platform. With a clean and user-friendly interface our YouTube clone provides a seamless experience for content viewers.</p>
+
+<h2>🚀 Demo</h2>
+
+[https://you-tube-clone-liart-ten.vercel.app/](https://you-tube-clone-liart-ten.vercel.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.postimg.cc/hGmQYS98/Screenshot-104.png" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.postimg.cc/26Fbz29V/Screenshot-105.png" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.postimg.cc/JnWHV9qf/Screenshot-106.png" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Video Playback :- Watch videos from various content creators on the platform. Enjoy a high-quality video playback experience.
+*   Search and Discover :- Use the search functionality to find videos on a wide range of topics. Discover new content and creators easily.
+*   Responsive Design :- The web app is fully responsive ensuring a great viewing experience on all devices including desktops tablets and mobile phones.
+*   API Integration :- Utilizes YouTube's API for fetching real-time data ensuring up-to-date content and information.
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React JS
+*   Tailwind CSS
+*   YouTube API
+*   Firebase
+
+# Installation Steps 
+
+This project was creaeted with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
